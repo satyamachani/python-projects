@@ -1,0 +1,2 @@
+# python-projects
+automating projects
